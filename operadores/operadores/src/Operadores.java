@@ -1,6 +1,6 @@
 import java.sql.Date;
 
-public class App {
+public class Operadores {
     public static void main(String[] args) throws Exception {
         //atribuição, cada tipo de dado tem uma forma de atribuição
         String nome = "Lucas";

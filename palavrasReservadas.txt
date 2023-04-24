@@ -1,0 +1,57 @@
+Palavras reservadas são identificadores de uma linguagem que já possuem uma finalidade específica,
+        então não podem ser utilizadas para nomear variáveis, classes métodos ou atributos.
+        
+        52 palavras reservadas de Java organizadas por classificação e usabilidade considerando as regras da linguagem
+
+        Controles de pacote:
+        import
+        package
+
+        Modificadores de acesso:
+        public
+        private
+        protected
+
+        Primitivos:
+        boolean
+        byte
+        char
+        double
+        float
+        int
+        long
+        short
+        void
+        return
+
+        Modificadores de Classes, Variáveis ou Métodos
+        abstract
+        class
+        extends
+        final
+        implements
+        interface
+        native
+        new
+        static
+        strictfp
+        synchronized
+        transient
+        volatile
+
+        Controle de fluxo dentro de um bloco de código
+        break
+        case
+        continue
+
+        Tratamentos de Erros:
+        assert
+        catch
+        finally
+        throw
+        throws
+        try
+
+        Variáveis de Referência:
+        super
+        this
